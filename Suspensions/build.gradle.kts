@@ -32,7 +32,8 @@ tasks.test {
 }
 
 application {
-    mainClass.set("MainKt")
+//    mainClass.set("MainKt")
+    mainClass.set("Chapter5.StructuredConcurrency._1_CoroutineScopeKt")
     applicationDefaultJvmArgs = listOf("-Dkotlinx.coroutines.debug")
 }
 

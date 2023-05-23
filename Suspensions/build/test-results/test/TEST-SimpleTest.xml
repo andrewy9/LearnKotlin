@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SimpleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-09T03:26:52" hostname="MSI" time="1.596">
+<testsuite name="SimpleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-22T00:02:22" hostname="MSI" time="1.578">
   <properties/>
-  <testcase name="firstTest()" classname="SimpleTest" time="0.033"/>
-  <testcase name="secondTest()" classname="SimpleTest" time="1.562"/>
+  <testcase name="firstTest()" classname="SimpleTest" time="0.025"/>
+  <testcase name="secondTest()" classname="SimpleTest" time="1.552"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
