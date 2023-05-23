@@ -4,7 +4,8 @@ import kotlinx.coroutines.*
 
 fun main() {
 //    runScopes()
-    dispatcher();
+    dispatcher()
+    dispatcherWithScope()
 }
 fun runScopes() = runBlocking<Unit> {
     launch {
